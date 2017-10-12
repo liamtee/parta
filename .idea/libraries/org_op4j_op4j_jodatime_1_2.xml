@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="org.op4j:op4j-jodatime:1.2" type="repository">
+    <properties maven-id="org.op4j:op4j-jodatime:1.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/op4j-jodatime-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/op4j-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaruntype-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-runtime-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javatuples-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
